@@ -1,1 +1,3 @@
+
 this is file2 in main Before the merg
+this is file2
